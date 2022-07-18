@@ -166,3 +166,27 @@ a {
 
     }
 }
+
+/* Icon styles */
+.icon {
+    width: 40px;
+    height: 40px;
+
+
+}
+
+.Icon--primary {
+    fill: var(--color-primary);
+}
+
+.icon-container {
+    border-radius: 100%;
+    background: #f3f9fa;
+    width: 64px;
+    height: 64px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
