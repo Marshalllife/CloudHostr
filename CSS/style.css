@@ -624,12 +624,20 @@ a {
 .collapsible__header {
     display: flex;
     justify-content: space-between;
+
 }
 
 .collapsible__heading {
     margin-top: 0;
     font-size: 3rem;
 }
+
+/*.collapsible__chevron {
+    position: absolute;
+    right: 10;
+    margin: 0.6rem;}*/
+
+
 
 .collapsible__chevron {
     transform: rotate(-90deg);
