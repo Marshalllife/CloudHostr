@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Marshalllife/cloudhostr/issues"
   },
-  "homepage": "https://github.com/Marshalllife/cloudhostr"
+  "homepage": "https://github.com/Marshalllife/cloudhostr",
+  "devDependencies": {
+    "cssnano": "^5.1.12",
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^8.4.14"
+  }
 }
