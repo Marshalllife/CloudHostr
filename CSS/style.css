@@ -1,4 +1,4 @@
-@import "normalize.css";
+@import "/Users/marshall/Desktop/Programming/Mos remade/CSS/normalize.css";
 
 :root {
     --color-primary: #2584ff;
@@ -671,6 +671,7 @@ a {
 .container {
     max-width: 1140px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 /* Navigation Bar */
